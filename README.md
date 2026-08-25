@@ -10,3 +10,7 @@ This repository contains the dataset and model scores associated with:
 data/
 ├── flores_en_el_contrastive_dataset.xlsx
 └── english_greek_contrastive_model_scores.xlsx
+
+- **`flores_en_el_contrastive_dataset.xlsx`** — Contains the 1,850 English–Greek contrastive examples with the source sentence, correct translation, erroneous translation, and error category.
+
+- **`english_greek_contrastive_model_scores.xlsx`** — Contains the corresponding scores for each example from the five multilingual sentence-embedding models and COMETKiwi.
