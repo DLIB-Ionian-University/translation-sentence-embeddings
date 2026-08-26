@@ -64,10 +64,13 @@ The associated paper is available on arXiv:
 If you use this dataset or the accompanying model scores, please cite:
 
 ```bibtex
-@article{kalogeros2026translation,
+@misc{KNGNA2026,
   title   = {Evaluating Multilingual Sentence Embeddings for Translation Error Detection: An English--Greek Contrastive Study},
   author  = {Kalogeros, Eleftherios and Ntalakas, Athanasios and Gergatsoulis, Manolis and Nikolaou, Paschalis and Alexaki, Sotiria-Lito},
-  journal = {arXiv preprint arXiv:YOUR_ARXIV_ID},
-  year    = {2026}
+  eprint={YOUR_ARXIV_ID},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/YOUR_ARXIV_ID},
+  year={2026}
 }
 ```
