@@ -57,7 +57,7 @@ The associated paper is available on arXiv:
 
 **Evaluating Multilingual Sentence Embeddings for Translation Error Detection: An English–Greek Contrastive Study**
 
-[View the paper on arXiv](https://arxiv.org/abs/YOUR_ARXIV_ID)
+[View the paper on arXiv](https://arxiv.org/abs/2608.28776)
 
 ## Citation
 
@@ -67,10 +67,10 @@ If you use this dataset or the accompanying model scores, please cite:
 @misc{KNGNA2026,
   title   = {Evaluating Multilingual Sentence Embeddings for Translation Error Detection: An English--Greek Contrastive Study},
   author  = {Kalogeros, Eleftherios and Ntalakas, Athanasios and Gergatsoulis, Manolis and Nikolaou, Paschalis and Alexaki, Sotiria-Lito},
-  eprint={YOUR_ARXIV_ID},
+  eprint={2608.28776},
   archivePrefix={arXiv},
   primaryClass={cs.CL},
-  url={https://arxiv.org/abs/YOUR_ARXIV_ID},
+  url={https://arxiv.org/abs/2608.28776},
   year={2026}
 }
 ```
